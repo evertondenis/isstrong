@@ -1,7 +1,7 @@
 # Is Strong?
 **Is Strong?** it's a technical test to [Olist](https://olist.com/), a fun test, where I using **React**,  and **Styled Components**, and **Jest**, and **Enzyme**...
 I opted out don't use **Redux** or **Redux-Saga** to control the **states**.
-In that example form, we have a component from validate a password strength, where we pass props like; min character, max character, enable compare password, etc.
+In that example form, we have a component from validate a password strength, where we pass props like: min characters, max characters, enable compare password, etc.
 <br><br>
 *improvements coming soon. 😜*
 
