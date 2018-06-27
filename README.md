@@ -6,6 +6,7 @@ In that example form, we have a component from validate a password strength, whe
 *improvements coming soon. 😜*
 
 ## Installing dependencies
+Download or clone this repository;
 
 Yarn: `$ yarn`
 
