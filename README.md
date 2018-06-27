@@ -33,7 +33,7 @@ yarn: `$ yarn test --coverage`
 Npm: `$ npm test --coverage`
 
 ## Components Doc
-I'm using the great [https://github.com/pedronauck/docz](Docz)
+I'm using the great [Docz](https://github.com/pedronauck/docz)
 
 yarn: `$ yarn doc`
 
