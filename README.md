@@ -3,7 +3,7 @@
 I opted out don't use **Redux** or **Redux-Saga** to control the **states**.
 In that example form, we have a component from validate a password strength, where we pass props like; min character, max character, enable compare password, etc.
 <br><br>
-*I just so diverted about developing this component, that I'll give continued with your evolution do improvements coming soon.*
+*improvements coming soon. 😜*
 
 ## Installing dependencies
 
