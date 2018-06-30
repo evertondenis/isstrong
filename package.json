@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://evertondenis.github.io/isstrong/",
-  "description": "It's a technical test to Olist",
+  "description": "It's a technical test to Olist.",
   "dependencies": {
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^16.1.0",
