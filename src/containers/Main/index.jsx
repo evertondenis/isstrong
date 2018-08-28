@@ -61,7 +61,7 @@ class Main extends Component {
     return (
       <StyledMain>
         <StyledBox>
-          <Logo logo={Brand} alt="Olist logo" />
+          {/* <Logo logo={Brand} alt="Olist logo" /> */}
 
           {validForm ? (
             <Fragment>
