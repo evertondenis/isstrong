@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react'
 import { Logo, Input, Password, Button } from 'components'
-import { Checked, Brand, Loading } from 'core/assets/images'
+import { Checked, Loading } from 'core/assets/images'
 import { StyledMain, StyledBox } from './styled'
 
 class Main extends Component {
