@@ -16,7 +16,7 @@ Npm: `$ npm i`
 
 ## Runing project
 
-yarn: `$ yarn start`
+Yarn: `$ yarn start`
 
 Npm: `$ npm start`
 
@@ -25,20 +25,20 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Run tests
 
-yarn: `$ yarn test`
+Yarn: `$ yarn test`
 
 Npm: `$ npm test`
 
 ## Coverage reporting
 
-yarn: `$ yarn test --coverage`
+Yarn: `$ yarn test --coverage`
 
 Npm: `$ npm test --coverage`
 
 ## Components Doc
 I'm using the great [Docz](https://github.com/pedronauck/docz)
 
-yarn: `$ yarn doc`
+Yarn: `$ yarn doc`
 
 Npm: `$ npm doc`
 
