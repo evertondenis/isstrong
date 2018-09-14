@@ -25,7 +25,6 @@ describe('Input.', () => {
       <Input
         className="class"
         label="E-mail"
-        ref="inputRefEmail"
         onChange={onChange}
         required
       />
